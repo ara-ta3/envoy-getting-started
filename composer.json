@@ -1,0 +1,13 @@
+{
+    "name": "ara-ta3/envoy-getting-started",
+    "require": {
+        "laravel/envoy": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arata Tanaka",
+            "email": "tarata43@yahoo.co.jp"
+        }
+    ]
+}
